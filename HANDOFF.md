@@ -20,7 +20,7 @@
 | Runnable site | `/workspace/quintile_map/site/` |
 | Data extracts | `/workspace/quintile_map/site/data/` |
 | Raw mirror | `/workspace/quintile_map/raw/` |
-| Desktop copy | `/Users/julianlee/Desktop/Math Resources/Quintile Live/` |
+| Desktop copy | `~/Desktop/Math Resources/Quintile Live/` |
 | Older EMH fork (do not wipe) | `/workspace/quintile/site/` and Desktop `Math Resources/Quintile/` |
 
 ## What this build is
