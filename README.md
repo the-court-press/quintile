@@ -40,6 +40,6 @@ https://king-wind-charm-lilac.grok.me/
 
 ## GitHub Pages
 
-https://julianlee314-hue.github.io/quintile/
+https://the-court-press.github.io/quintile/
 
 The site auto-detects the `/quintile` prefix when hosted on GitHub Pages. Local `serve.py` uses `/`.

@@ -5,7 +5,7 @@
 **Quintile sources:** `/workspace/quintile_map/site/data/skills_tree.json` stats + atlas; `analysis/ERA_HOURS.md`.  
 **Khan sources:** cited links below (ranges preferred; no fabricated precise live counts — public `topictree` API removed 2020; GraphQL topic sampling returned safelist/403 from this environment).
 
-Live Quintile tree: https://julianlee314-hue.github.io/quintile/tree/
+Live Quintile tree: https://the-court-press.github.io/quintile/tree/
 
 ---
 

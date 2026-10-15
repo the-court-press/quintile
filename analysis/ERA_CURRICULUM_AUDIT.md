@@ -2,7 +2,7 @@
 
 **Generated:** 2026-09-24 ~18:15 ICT  
 **Live source (untouched):** https://king-wind-charm-lilac.grok.me/  
-**Maintainable fork:** `/workspace/quintile_map/site/` → https://julianlee314-hue.github.io/quintile/  
+**Maintainable fork:** `/workspace/quintile_map/site/` → https://the-court-press.github.io/quintile/  
 **Inventory:** `analysis/inventory.json`, `analysis/inventory.md`
 
 ---
@@ -24,7 +24,7 @@ Quintile’s 7-era map is a **British/IB-leaning spine** (KS3 → GCSE Higher �
 **Courses on map now (fork):** 18 (was 15). New cards: **Measures**, **Precalculus**, **Mechanics**.  
 **Out-of-curriculum highlights:** Topology foothold; Euler *Analysis of the Infinite* as a school track; power-sets / open-closed intervals framed as “topology”; some HL-only / early-advanced leaves placed before typical age bands.
 
-**Deploy:** Fork GitHub Pages intended at `julianlee314-hue.github.io/quintile`. Live grok.me **not** modified (per handoff). Desktop sync to `Math Resources/Quintile Live/`. GitHub MCP was `needsAuth` at audit start — push attempted via local `git` if credentials exist.
+**Deploy:** Fork GitHub Pages intended at `the-court-press.github.io/quintile`. Live grok.me **not** modified (per handoff). Desktop sync to `Math Resources/Quintile Live/`. GitHub MCP was `needsAuth` at audit start — push attempted via local `git` if credentials exist.
 
 ---
 

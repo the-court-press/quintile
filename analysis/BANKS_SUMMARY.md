@@ -118,12 +118,12 @@ Kept original 120; appended → **45/topic**, **360 total**.
 
 | What | URL |
 |------|-----|
-| Banks index | https://julianlee314-hue.github.io/quintile/banks/ |
-| Diploma past papers | https://julianlee314-hue.github.io/quintile/diploma/exams/ |
-| Practice sample | https://julianlee314-hue.github.io/quintile/practice/?skill=era-counting-arithmetic-bonds |
-| Exam MCQ sample | https://julianlee314-hue.github.io/quintile/practice/?skill=era-counting-arithmetic-bonds&mode=exam |
-| Iso one-step | https://julianlee314-hue.github.io/quintile/practice/?skill=iso-one-step-equations |
-| Diploma practice | https://julianlee314-hue.github.io/quintile/practice/?skill=era-diploma-aa-hl-binomial |
+| Banks index | https://the-court-press.github.io/quintile/banks/ |
+| Diploma past papers | https://the-court-press.github.io/quintile/diploma/exams/ |
+| Practice sample | https://the-court-press.github.io/quintile/practice/?skill=era-counting-arithmetic-bonds |
+| Exam MCQ sample | https://the-court-press.github.io/quintile/practice/?skill=era-counting-arithmetic-bonds&mode=exam |
+| Iso one-step | https://the-court-press.github.io/quintile/practice/?skill=iso-one-step-equations |
+| Diploma practice | https://the-court-press.github.io/quintile/practice/?skill=era-diploma-aa-hl-binomial |
 
 ## Rebuild
 
